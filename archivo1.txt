@@ -1,0 +1,2 @@
+Prueba con git abriendo vs desde terminal.
+Agregando segunda linea prueba 
